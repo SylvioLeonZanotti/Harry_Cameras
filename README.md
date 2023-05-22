@@ -11,3 +11,7 @@ Este script serve para que os players possam usar um sistema de câmeras espalha
 É possível personalizar o nome da central de câmeras que serão acessadas, cada central poderá ter até 30 pontos de câmeras diferentes, podendo ser fixas ou móveis para o jogador mexer através do "CameraRotativa".
 
 ![Screenshot_4](https://github.com/SylvioLeonZanotti/Harry_Cameras/assets/123652053/0ee304be-cc4a-4ed5-9e51-4692b04d6de4)
+
+# Comandos
+
+Através do A,W,S,D o jogador poderá mexer a câmera em seu próprio eixo, para selecionar qual câmera estará usando poderá transitar entre elas usando as setas de esquerda e direita do teclado.
