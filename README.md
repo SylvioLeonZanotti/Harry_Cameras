@@ -15,3 +15,5 @@ Este script serve para que os players possam usar um sistema de câmeras espalha
 # Comandos
 
 Através do A,W,S,D o jogador poderá mexer a câmera em seu próprio eixo, para selecionar qual câmera estará usando poderá transitar entre elas usando as setas de esquerda e direita do teclado.
+
+![Screenshot_5](https://github.com/SylvioLeonZanotti/Harry_Cameras/assets/123652053/be2d633f-f652-4809-911e-dc53c01ed0d6)
