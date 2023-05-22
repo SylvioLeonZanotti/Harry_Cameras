@@ -1,6 +1,6 @@
 # Harry_Cameras
 
-Sistema de assalto a câmeras de segurança para **Five M para vRPEx**.
+Sistema de câmeras de segurança para **Five M para vRPEx**.
 
 Este script serve para que os players possam usar um sistema de câmeras espalhadas pela cidade, de forma simples e rápida é possível que sejam colocadas em dezenas de lugares de preferência do jogador.
 
